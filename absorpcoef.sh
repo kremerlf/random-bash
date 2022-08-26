@@ -7,7 +7,7 @@
 echo "####################################################"
 echo "# Script to plot SIESTA Absorbance coef"
 echo "#"
-echo "# uses div.x"
+# echo "# uses div.x"
 echo "# Luiz Felipe Kremer "
 echo "#	12 Dec 2017:"
 echo "####################################################"
